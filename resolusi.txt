@@ -3,5 +3,4 @@ Haqproject resolution
 -belajar php dasar
 -belajar php oop
 -belajar sql
--belajar php mvc
 -punya kelas bootcamp koding di tasikmalaya
