@@ -1,0 +1,6 @@
+Haqproject resolution
+-Menjadi software developer
+-belajar php dasar
+-belajar php oop
+-belajar sql
+-belajar php mvc
