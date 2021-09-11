@@ -1,0 +1,9 @@
+Renca Study
+1.Belajar PHP
+  -Belajar Paradigma OOP
+  -Belajar konsep MVC
+  -PHP Testting
+  -Laravel 
+2. Lanjut kuliah
+  - ITB 
+  - UI
