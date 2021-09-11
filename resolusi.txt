@@ -4,3 +4,10 @@ Haqproject resolution
 -belajar php oop
 -belajar sql
 -punya kelas bootcamp koding di tasikmalaya
+- Belajar python
+  - Django
+-Javascript
+  -ES6
+  -Node JS
+  -React
+-Struktur Data
